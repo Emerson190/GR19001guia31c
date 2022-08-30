@@ -1,0 +1,40 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"superficie": "",
+				"alcalde": "",
+				"tiempo": "",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"municipio": {
+					"cabecera": "Ciudad de Santa Ana",
+					"habitantes": "272,554 (2017)",
+					"altura": "645 m",
+					"codigopostal": "02010",
+					"_id": "1",
+					"_nombre": "Santa Ana"
+				},
+				"_id": "2",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"presidente": "Nayib Bukele",
+		"moneda": "Dolar Americano",
+		"extensionterritorial": "21,041 km²",
+		"gentilicio": "Salvadoreños",
+		"idioma": "Español",
+		"segundoidioma": "Ingles",
+		"Fechadeindependencia": "15/sep/1821",
+		"Riomasgrande": "Rio Lempa",
+		"Ubicacion": "Centro America,America",
+		"fuerzadeseguridad": "PNC",
+		"codigodearea": "+503",
+		"_nombre": "El Salvador"
+	}
+}

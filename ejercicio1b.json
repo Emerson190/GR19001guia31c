@@ -1,0 +1,25 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@datospersonales":"29/08/2022",
+				"Telefono":"7883-2504",
+				"email":"gr19001@ues.edu.sv",
+				"url":"https://gr19001tpi115.000webhostapp.com/"
+			},
+			{
+				"@id":"3",
+				"@datostrabajo":"29/08/2022",
+				"Dui":"06031776-8",
+				"Isss":"152432343432",
+				"AFP":"15415436143521"
+			}
+		]}
+}
